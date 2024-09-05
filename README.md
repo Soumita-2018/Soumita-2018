@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/1060soumita" target="blank"><img src="https://img.shields.io/twitter/follow/1060soumita?logo=twitter&style=for-the-badge" alt="1060soumita" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+
 
 - 💬 Ask me about **Java, HTML, CSS, C, Python**
 

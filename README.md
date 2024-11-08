@@ -4,15 +4,11 @@
 
 <img align="right" alt="coding" width="400" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
 
-<p align="left"> <a href="https://twitter.com/1060soumita" target="blank"><img src="https://img.shields.io/twitter/follow/1060soumita?logo=twitter&style=for-the-badge" alt="1060soumita" /></a> </p>
 
-
-
-- 💬 Ask me about **Java, HTML, CSS, C, Python**
 
 - 📫 How to reach me **soumita2018sahu@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/SOUMITA/OneDrive/Desktop/Soumita%20Sahu_Resume.pdf](file:///C:/Users/SOUMITA/OneDrive/Desktop/Soumita%20Sahu_Resume.pdf)
+
 
 - ⚡ Fun fact **Meet Soumita Sahu, the coding connoisseur with a flair for fun and a knack for crafting digital wonders! 🚀 When not busy slaying bugs or conjuring up lines of code, you can find them exploring new tech frontiers, sipping on a cup of coffee (or two), or engaged in an epic battle against the keyboard warriors🤓**
 
